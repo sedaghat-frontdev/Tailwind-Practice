@@ -7,10 +7,13 @@
 
 A Responsive practice coded with Tailwind and works on all devices.
 
-<img width="1919" height="970" alt="Image" src="https://github.com/user-attachments/assets/6becb6b8-7e2d-48e6-a9cf-50b358ae9806" />
+<img width="1918" height="970" alt="Image" src="https://github.com/user-attachments/assets/ba6d519c-2767-4be7-9724-7975c7788817" />
 <br/>
-<img width="1918" height="971" alt="Image" src="https://github.com/user-attachments/assets/5f066c3e-a4f9-4433-b57d-81c9cb4c426d" />
-
+<img width="1407" height="967" alt="Image" src="https://github.com/user-attachments/assets/8bacad3d-b8fe-4b97-b64c-71bb2793192b" />
+<br/>
+<img width="957" height="970" alt="Image" src="https://github.com/user-attachments/assets/e2163cd4-e94c-499f-9711-dc93860edc04" />
+<br/>
+<img width="626" height="968" alt="Image" src="https://github.com/user-attachments/assets/0ecd1ada-f7e1-490e-974b-b2da6dce1b89" />
 <br/>
 <br/>
 
