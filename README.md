@@ -15,7 +15,7 @@ A Responsive practice coded with Tailwind and works on all devices.
 <br/>
 
 <p align="center">
-  <a href="https://sedaghat-frontdev.github.io/DigiMovies-Header-Practice/index-1MenuDigi.html" target="_blank">
+  <a href="https://sedaghat-frontdev.github.io/Tailwind-Practice/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
